@@ -1,23 +1,6 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22595
-Fork on GitHub
-7441
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Promise Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-- 🌱 I’m currently learning **TypsScript**
 
 - 📫 Reach me at **promisepal1509@gmail.com**
 
