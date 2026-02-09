@@ -45,7 +45,7 @@
 - **Email:** <a href="mailto:promisepal1509@gmail.com">promisepal1509@gmail.com</a>
 - **LinkedIn:** <a href="https://www.linkedin.com/in/promise-pal-499b83216/" target="_blank">promise-pal</a>
 - **Medium:** <a href="https://medium.com/@promise.pal" target="_blank">@promise.pal</a>
-- **Portfolio:** <a href="https://promise-portfolio.vercel.app" target="_blank">View Portfolio</a>
+- **Portfolio:** <a href="https://personal-portfolio-seven-snowy-77.vercel.app/" target="_blank">View Portfolio</a>
 
 ---
 
