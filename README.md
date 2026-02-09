@@ -40,18 +40,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-**<a href="https://github.com/promise1402/budget-tracker" target="_blank">Budget Tracker</a>** - Expense manager with authentication, built with TypeScript, React, Redux, and Tailwind CSS
-
-**<a href="https://github.com/promise1402/invoice-generator" target="_blank">Invoice Generator</a>** - Responsive invoice creator with customization and download features
-
-**<a href="https://github.com/promise1402/food-recipe-app" target="_blank">Food Recipe App</a>** - Recipe explorer integrating TheMealDB API with search functionality
-
-**<a href="https://github.com/promise1402/movie-app" target="_blank">Movie App</a>** - Movie catalog with details, ratings, and API integration
-
----
-
 ## 📫 Contact
 
 - **Email:** <a href="mailto:promisepal1509@gmail.com">promisepal1509@gmail.com</a>
