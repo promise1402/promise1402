@@ -1,43 +1,66 @@
-<h1 align="center">Hi 👋, I'm Promise Pal</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+# Promise Pal
 
-<p align="center">
-  <a href="mailto:promisepal1509@gmail.com">📫 Reach me at <strong>promisepal1509@gmail.com</strong></a>
+**Full-Stack Developer** specializing in React and Node.js
+
+🔍 Currently seeking Software Developer opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
 ---
 
-### 🌐 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/promise-pal-499b83216/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@promise.pal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" height="30"/>
-  </a>
-</p>
+## 💼 Experience
+
+**SDE Intern** @ One Place Solar *(Jul 2025 - Jan 2026)*  
+- Developed features for in-house CRM system and internal tools
+- Worked on full-stack development with React, Bootstrap and API Integration
+- Collaborated with cross-functional teams following industry best practices
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-</p>
+## 🎓 Education
+
+**B.Tech in Computer Science** - Raj Kumar Goel Institute of Technology  
+*2019 - 2023 | GPA: 8.1*
 
 ---
 
-### 📊 GitHub Stats
+## 📂 Featured Projects
+
+**<a href="https://github.com/promise1402/budget-tracker" target="_blank">Budget Tracker</a>** - Expense manager with authentication, built with TypeScript, React, Redux, and Tailwind CSS
+
+**<a href="https://github.com/promise1402/invoice-generator" target="_blank">Invoice Generator</a>** - Responsive invoice creator with customization and download features
+
+**<a href="https://github.com/promise1402/food-recipe-app" target="_blank">Food Recipe App</a>** - Recipe explorer integrating TheMealDB API with search functionality
+
+**<a href="https://github.com/promise1402/movie-app" target="_blank">Movie App</a>** - Movie catalog with details, ratings, and API integration
+
+---
+
+## 📫 Contact
+
+- **Email:** <a href="mailto:promisepal1509@gmail.com">promisepal1509@gmail.com</a>
+- **LinkedIn:** <a href="https://www.linkedin.com/in/promise-pal-499b83216/" target="_blank">promise-pal</a>
+- **Medium:** <a href="https://medium.com/@promise.pal" target="_blank">@promise.pal</a>
+- **Portfolio:** <a href="https://promise-portfolio.vercel.app" target="_blank">View Portfolio</a>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=promise1402&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=promise1402&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
 </p>
